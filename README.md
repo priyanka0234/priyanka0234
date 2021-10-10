@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @priyanka0234
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning microsoft azure, coding
+- 💞️ I’m looking to collaborate on future talent project
